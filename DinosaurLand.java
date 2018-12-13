@@ -201,7 +201,7 @@ public class DinosaurLand {
                         }else if(mosasaurusChoice == 2){
                             mosasaurus.attackAtlantis();
                         }else if(mosasaurusChoice == 3){
-                            displayDinoStats(quetzal);
+                            displayDinoStats(mosasaurus);
                         }else if(mosasaurusChoice== 4){
                             break;
                         }else if(mosasaurusChoice == 5){
@@ -232,7 +232,7 @@ public class DinosaurLand {
                         }else if(plesiosaurChoice == 2){
                             plesiosaur.attackAtlantis();
                         }else if(plesiosaurChoice == 3){
-                            displayDinoStats(quetzal);
+                            displayDinoStats(plesiosaur);
                         }else if(plesiosaurChoice== 4){
                             break;
                         }else if(plesiosaurChoice == 5){
